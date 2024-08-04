@@ -44,10 +44,10 @@ The project uses SQLAlchemy for ORM and database management.
 
 # Contributing
 Contributions are welcome! Please follow these steps to contribute:
-Fork the repository.
-Create a new branch.
-Make your changes and commit them.
-Push to the branch.
-Create a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+- Fork the repository.
+- Create a new branch.
+- Make your changes and commit them.
+- Push to the branch.
+- Create a pull request.
+- License
+- This project is licensed under the MIT License. See the LICENSE file for more details.
