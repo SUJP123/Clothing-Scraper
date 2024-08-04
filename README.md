@@ -44,8 +44,7 @@ The project uses SQLAlchemy for ORM and database management.
 
 # Contributing
 Contributions are welcome! Please follow these steps to contribute:
-
-# Fork the repository.
+Fork the repository.
 Create a new branch.
 Make your changes and commit them.
 Push to the branch.
